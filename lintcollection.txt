@@ -1,0 +1,103 @@
+基础：例如string操作
+例题：找到分析的思路和方法
+找方法套路，总结出几个常见题目模板
+看视频补充未列举的题目
+
+冷冻期
+待学习
+
+公理(不成文技巧)：
+小技巧
+
+定理，方法，套路 (经验)：
+深度优先dfs，宽度dfs，链表快慢指针
+观其形，通过反推，画图，领会每个步骤意图
+
+算法复杂度的计算
+
+Level 1. 算法基础知识
+37,1,766,9,116,454,484,456,222,366,385,455,218,239,413,
+
+Level 2. 字符串
+Native: 241,146,
+Easy: 1540,936,53,1154,157
+Medium: 415,1819
+冷冻期：1781,1784,1510,812，627,8,1372,1352,171
+958
+
+Level 3. 链表
+Easy:489,217
+Medium:511,
+冷冻期:451,372,112,223,113,105
+
+Level 4. 栈和队列
+冷冻期:546,495,494,40,493,492,978,980,12
+Easy:423
+Medium:575,541,421,616
+
+Level 5. 二叉树
+Easy: 376,482,481,480,469,97,67
+冷静期: 1137,470,1122,864,71
+错题: 155 - 在Note里再次总结
+
+Level 6. BST
+Easy:177,93,85
+Medium: 760,95
+Hard: 87
+重写：177,93,85
+
+Level 7. 分治法
+Easy: 1524,469
+Medium: 1534,701
+
+Level 8. Hash
+1457,1299,1035,1789,1632,138,124,
+Easy:557,856,521,644,487
+Medium: 1796
+回顾：487
+
+Level 9. 排序算法
+463,464,156,173,532,184,148,143,139,98,31,5,1200,479,1477,
+
+
+Pattern:
+
+Sliding Window:
+滑动窗口算法是在一个特定大小的字符串或者数组上进行操作，而不在真个字符串上进行操作，
+降低了时间复杂度，降低了循环嵌套的深度，主要运用在数组上。
+
+1.Maximum Sum Subarray of Size K - easy - 1517 · Largest subarray
+2.Smallest subarray with a given sum - easy
+3.Longest substring with K distinct characters - Medium
+4.Fruits into baskets - Medium
+5.No-repeat substring - Hard
+6.Longest Substring with same letters after replacement
+7.Problem challenge 1 - Permutation in a string - hard
+8.Problem challenge 2 - String anagrams - hard
+9.Problem challenge 3 - Smallest window containing substring - hard
+10.Problem challenge 4 - Words Concatenation - hard
+11.Maximum Average Subarray - lintcode868 - easy
+
+Two pointer:
+1.Pair with Target Sum
+2.Remove Duplicates
+3.Squaring a Sorted Array
+4.Triplet Sum to Zero - 3sum
+5.Triplet SumClose to Target - 3sum - watch the recursion solution on this
+6.Triplets with smaller sum
+7.Subarrays with product less than a Target
+8.Problem Challenge 1. Quadruple Sum to Target
+9.Problem Challenge 2. Comparing Strings containing Backspaces
+10.Problem Challenge 3. Minium Window Sort
+11.4Sum
+
+Sorting:
+
+
+Work out:
+fruits into baskets
+sorting - insertion sort, merge sort
+3sum and 4sum with recursion
+
+重点回顾：
+155
