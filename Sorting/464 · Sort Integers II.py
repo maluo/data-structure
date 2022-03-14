@@ -14,7 +14,6 @@ Example2:
 Input: [2, 3, 1], 
 Output: [1, 2, 3].
 """
-
 class heapSort(object):
     def __init__(self,nums):
         self.A = nums
@@ -75,7 +74,11 @@ class quickSort(object):
                 r -= 1
         self.sort(start,r)
         self.sort(l,end)
-    
+
+
+"""
+参考ipad 九章算法笔记
+"""    
 class mergeSort(object):
     def __init__(self,nums):
         self.A = nums
@@ -115,6 +118,7 @@ class mergeSort(object):
             r += 1
         for i in range(start,end+1):
             self.A[i] = self.temp[i]
+
 class Solution:
     """
     @param A: an integer array

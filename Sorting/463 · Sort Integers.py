@@ -1,6 +1,6 @@
 """
 Bubble sort: move small ones to left one by one
-
+把最小的值不断往左边移动
 """
 
 class Solution:
